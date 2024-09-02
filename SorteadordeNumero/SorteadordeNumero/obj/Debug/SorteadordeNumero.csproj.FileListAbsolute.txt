@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\ESTUDOS\SorteadordeNumero\SorteadordeNumero\bin\Debug\SorteadordeNumero.exe.config
+C:\Users\usuario\Desktop\ESTUDOS\SorteadordeNumero\SorteadordeNumero\bin\Debug\SorteadordeNumero.exe
+C:\Users\usuario\Desktop\ESTUDOS\SorteadordeNumero\SorteadordeNumero\bin\Debug\SorteadordeNumero.pdb
+C:\Users\usuario\Desktop\ESTUDOS\SorteadordeNumero\SorteadordeNumero\obj\Debug\SorteadordeNumero.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ESTUDOS\SorteadordeNumero\SorteadordeNumero\obj\Debug\SorteadordeNumero.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\SorteadordeNumero\SorteadordeNumero\obj\Debug\SorteadordeNumero.exe
+C:\Users\usuario\Desktop\ESTUDOS\SorteadordeNumero\SorteadordeNumero\obj\Debug\SorteadordeNumero.pdb
